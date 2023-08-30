@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 I'm Joshua!
+
+As a full stack engineer, I possess proficiency across an array of languages: Python, JavaScript, HTML, and CSS. My expertise extends to frameworks like React, Redux, Flask, and Express. My passion revolves around creating refined, user-centric products that effectively address real-world needs. Originating from a nutrition and health background, programming has seamlessly evolved into my primary medium for nurturing my unending curiosity, refining my knack for problem-solving, and giving wings to my creative expression!
 
 <!--
 **jhoang304/jhoang304** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
